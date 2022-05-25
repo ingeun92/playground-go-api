@@ -1,9 +1,0 @@
-{
-  "restartable": "rs",
-  "ignore": [".git"],
-  "verbose": true,
-  "ext": "go",
-  "watch": ["*.*"],
-  "exec": "go run main.go",
-  "signal": "SIGHUP"
-}
